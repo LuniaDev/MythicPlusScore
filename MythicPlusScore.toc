@@ -1,0 +1,7 @@
+## Interface: 100002
+## Version: 1.0
+## Title: Mythic+ Score
+## Notes: Displays the group leader's Mythic+ Score on the Group Finder
+## Author: Lunia
+
+MythicPlusScore.lua
